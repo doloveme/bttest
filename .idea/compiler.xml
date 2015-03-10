@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+<<<<<<< HEAD
     <option name="DEFAULT_COMPILER" value="Javac" />
+=======
+    <option name="DEFAULT_COMPILER" />
+>>>>>>> 7052e947975a514096fdc94e30a550ca60f2c334
     <resourceExtensions />
     <wildcardResourcePatterns>
       <entry name="!?*.java" />

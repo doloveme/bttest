@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="620693e0-b42e-4687-9b77-4a90ce4b5240" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_21_0_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/gradle.iml" />
@@ -17,6 +18,8 @@
     <ignored path="bttest.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+>>>>>>> 7052e947975a514096fdc94e30a550ca60f2c334
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +33,7 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+<<<<<<< HEAD
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="bttest" />
@@ -1155,12 +1159,16 @@
     <option name="height" value="1065" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+>>>>>>> 7052e947975a514096fdc94e30a550ca60f2c334
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
+<<<<<<< HEAD
     <OptionsSetting value="true" id="Undo Check Out" />
     <OptionsSetting value="true" id="Get Latest Version" />
     <ConfirmationsSetting value="0" id="Add" />
@@ -1203,6 +1211,11 @@
       </pane>
     </panes>
   </component>
+=======
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+>>>>>>> 7052e947975a514096fdc94e30a550ca60f2c334
   <component name="PropertiesComponent">
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -1210,10 +1223,15 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+<<<<<<< HEAD
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
   </component>
   <component name="RunManager" selected="Android Application.app">
+=======
+  </component>
+  <component name="RunManager">
+>>>>>>> 7052e947975a514096fdc94e30a550ca60f2c334
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -1228,6 +1246,22 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+<<<<<<< HEAD
+=======
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+>>>>>>> 7052e947975a514096fdc94e30a550ca60f2c334
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1256,6 +1290,7 @@
       <listeners />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -1269,6 +1304,8 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
+=======
+>>>>>>> 7052e947975a514096fdc94e30a550ca60f2c334
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -1305,6 +1342,7 @@
       <patterns />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -1348,10 +1386,14 @@
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
     </list>
+=======
+    <list size="0" />
+>>>>>>> 7052e947975a514096fdc94e30a550ca60f2c334
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="620693e0-b42e-4687-9b77-4a90ce4b5240" name="Default" comment="" />
       <created>1425981721725</created>
       <option name="number" value="Default" />
@@ -1412,6 +1454,14 @@
       <collection />
     </option>
   </component>
+=======
+      <created>1425981721725</created>
+      <option name="number" value="Default" />
+      <updated>1425981721725</updated>
+    </task>
+    <servers />
+  </component>
+>>>>>>> 7052e947975a514096fdc94e30a550ca60f2c334
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -1424,8 +1474,11 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+<<<<<<< HEAD
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
+=======
+>>>>>>> 7052e947975a514096fdc94e30a550ca60f2c334
 </project>
