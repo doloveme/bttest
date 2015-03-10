@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              >
+
+    <Button
+            android:id="@+id/open"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="OPENBT"/>
+    <Button
+            android:id="@+id/close"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="CLOSE"/>
+    <Button
+            android:id="@+id/search"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="SEARCH"/>
+    <Button
+            android:id="@+id/clean"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="CLEAN"/>
+    <Button
+            android:id="@+id/cleanpair"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="CONNECT"/>
+    <Button
+            android:id="@+id/send"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="SEND"/>
+    <ScrollView android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <TextView android:id="@+id/info" android:layout_width="wrap_content" android:layout_height="500dp"
+              android:textSize="15dp" android:textColor="@color/material_blue_grey_950"/>
+    </ScrollView>
+
+</LinearLayout>
