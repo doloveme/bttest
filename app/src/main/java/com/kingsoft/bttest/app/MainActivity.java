@@ -152,7 +152,6 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
         }
     }
     private void send(){
-        socket
     }
 
 

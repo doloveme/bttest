@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
-<<<<<<< HEAD
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/gradle/gradle.iml" filepath="$PROJECT_DIR$/gradle/gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bttest.iml" filepath="$PROJECT_DIR$/bttest.iml" />
     </modules>
-=======
-    <modules />
->>>>>>> 7052e947975a514096fdc94e30a550ca60f2c334
   </component>
 </project>

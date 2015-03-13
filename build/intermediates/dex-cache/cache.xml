@@ -2,17 +2,17 @@
 <pre-dex-items>
 
     <item
-        dex="/home/hua/workspace/bttest/app/build/intermediates/pre-dexed/debug/classes-2166902342ae0efe41960b6a370fec88b67e7075.jar"
-        jar="/home/hua/workspace/bttest/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
-    <item
         dex="/home/hua/workspace/bttest/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-155cac47c5245434704f129d1deafb1e59f266c9.jar"
         jar="/home/hua/lib/android-sdk_lastest/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+    <item
+        dex="/home/hua/workspace/bttest/app/build/intermediates/pre-dexed/debug/classes-2166902342ae0efe41960b6a370fec88b67e7075.jar"
+        jar="/home/hua/workspace/bttest/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
     <item
         dex="/home/hua/workspace/bttest/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-0ee3ed14075afc813dc1de1127955200aa4440e6.jar"
         jar="/home/hua/workspace/bttest/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
